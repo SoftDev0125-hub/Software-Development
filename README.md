@@ -16,8 +16,8 @@
 
 ## How to run?
 - Fork Project 
-- clone repository( git clone https://github.com/jaygajera17/Tour_Management_Asp.Net)
+- clone repository( git clone (https://github.com/mayankm508/Software-Development)
 - open app_data folder
 - right click on database file (.mdf) click modify connection.
-- you can also config your own database by step mention in [database.txt](https://github.com/mayankm508/Software-Development) file.
+- you can also config your own database by step mention in [database.txt] file.
 
