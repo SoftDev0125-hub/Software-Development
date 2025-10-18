@@ -16,7 +16,7 @@
 
 ## How to run?
 - Fork Project 
-- clone repository( git clone (https://github.com/mayankm508/Software-Development)
+- clone repository( git clone (https://github.com/SoftDeve0125-hub/Software-Development)
 - open app_data folder
 - right click on database file (.mdf) click modify connection.
 - you can also config your own database by step mention in [database.txt] file.
